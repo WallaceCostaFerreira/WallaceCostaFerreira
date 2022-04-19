@@ -1,6 +1,6 @@
 ## Olá! Eu sou Wallace Costa Ferreira
 - 🔭 Hoje trabalho com Mobile
-- 🌱 Estudando React Native 
+- 🌱 Estudando ASP.NET
 
 <div>
   <a href="https://github.com/WallaceCostaFerreira">
